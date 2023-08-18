@@ -1,0 +1,19 @@
+{
+  "name": "spotdraft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.12.2",
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
